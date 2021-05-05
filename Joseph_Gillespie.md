@@ -5,6 +5,7 @@
 Thoughts:
 
 Business - I like your ideas of having local businesses pay for ads or for being highlighted.  Another potential idea would be to have users pay a certain amount to eliminate ads.
+
 Operations and Legal - Both look good!
 
 Technical - I think the priorities in this section are a good starting point. For the data collection part, we could start with some test data that we input ourselves just to make sure the app is working correctly, then start getting data from others.
